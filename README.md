@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 
-![](https://komarev.com/ghpvc/?username=EvgenyKarkan&color=green)
+![](https://komarev.com/ghpvc/?username=EvgenyKarkan&color=brightgreen)
 
 
 <!--
