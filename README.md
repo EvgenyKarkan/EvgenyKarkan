@@ -1,4 +1,6 @@
 ## Hello, World! 👋
+![](https://komarev.com/ghpvc/?username=EvgenyKarkan&color=green)
+
 
 <!--
 **EvgenyKarkan/EvgenyKarkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
