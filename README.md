@@ -1,9 +1,6 @@
-## Hello, World! 👋
+## Hello, World!   ![](https://komarev.com/ghpvc/?username=EvgenyKarkan&color=brightgreen&label=++👀++)
 
 <a href="https://stackoverflow.com/users/1583877/evgeny-karkan"><img src="https://stackoverflow.com/users/flair/1583877.png?theme=dark" width="208" height="58" alt="profile for Evgeny Karkan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Evgeny Karkan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
-![](https://komarev.com/ghpvc/?username=EvgenyKarkan&color=brightgreen&label=++👀++)
-
 
 <!--
 **EvgenyKarkan/EvgenyKarkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
